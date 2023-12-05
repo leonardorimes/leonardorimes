@@ -4,11 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React.js | Next.js | JavaScript
 -------------------------------
 
-* 🌍  I'm based in Rio de Janeiro
 * 🖥️  See my portfolio at [site](http://about.me/leonardo_rimes)
-* ✉️  You can contact me at [rimesleo@gmail.com](mailto:rimesleo@gmail.com)
-* 🧠  I'm learning Nextjs, Nodejs
-* ⚡  I not only code but also thrive on the adrenaline rush of sports, ponder the intricacies of philosophy, and unravel the mysteries of humanity. I'm not just a keyboard maestro; I'm a versatile mind explorer in the realms of both bytes and existential musings
+
 
 ### Skills
 
