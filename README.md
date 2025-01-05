@@ -9,7 +9,6 @@ Sou um desenvolvedor front-end com foco em criar aplicações web eficientes e v
 
 ### Sobre Mim  
 
-* 🚀 Atualmente aprimorando minhas habilidades em gerenciamento de estado com **Redux**.  
 * 🎓 Formado em Sistemas de Informação com experiência prática em JavaScript e bibliotecas modernas de front-end.  
 * 🌟 Motivado a inspirar outras pessoas e ajudar profissionais a entrarem no mercado de tecnologia por meio da educação.  
 * 🖥️ Confira meu [portfólio](https://portfolio-ten-indol-40.vercel.app/).  
