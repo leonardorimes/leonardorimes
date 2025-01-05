@@ -5,7 +5,7 @@ Meu nome é Leonardo Rimes
 Desenvolvedor Front-end | Apaixonado por Tecnologia e Educação  
 ---------------------------------------------------------------  
 
-Sou um desenvolvedor front-end brasileiro com foco em criar aplicações web eficientes e visualmente atraentes. Tenho paixão por tecnologia, aprendizado contínuo e por ajudar outras pessoas a terem sucesso em suas jornadas. Minha especialidade está em **React.js**, **Next.js** e **JavaScript**, e gosto de explorar ferramentas e frameworks modernos para acompanhar o ritmo acelerado do desenvolvimento web.  
+Sou um desenvolvedor front-end com foco em criar aplicações web eficientes e visualmente atraentes. Tenho paixão por tecnologia, aprendizado contínuo e por ajudar outras pessoas a terem sucesso em suas jornadas. Minha especialidade está em **React.js**, **Next.js** e **JavaScript**, e gosto de explorar ferramentas e frameworks modernos para acompanhar o ritmo acelerado do desenvolvimento web.  
 
 ### Sobre Mim  
 
