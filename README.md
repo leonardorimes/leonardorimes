@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 React.js | Next.js | JavaScript
 -------------------------------
 
-* 🖥️  portfolio  [site]([http://about.me/leonardo_rimes](https://portfolio-ten-indol-40.vercel.app/))
+* 🖥️  portfolio  [site]([http://about.me/leonardo_rimes](https://portfolio-ten-indol-40.vercel.app/)
 
 
 ### Skills
