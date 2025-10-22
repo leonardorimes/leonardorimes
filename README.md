@@ -4,7 +4,7 @@
 {
   "fullName": "Leonardo Rimes",
   "pronouns": ["He", "Him"],
-  "jobs": ["Full Stack Developer", "Coding Instructor"],
+  "jobs": ["Full Stack Developer", "Coding Teacher"],
   "country": "Brazil",
   "languages": ["Portuguese", "English"],
   "code": ["JavaScript", "TypeScript", "SQL"],
