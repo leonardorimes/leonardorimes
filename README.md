@@ -1,4 +1,4 @@
-# Oi, eu sou o Leonardo
+# Hi, I'm Leonardo
 
 ```json
 {
