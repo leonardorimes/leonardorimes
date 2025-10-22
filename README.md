@@ -13,7 +13,7 @@
     "backend": ["Node.js", "Express"],
     "databases": ["Supabase", "PostgreSQL", "SQL Server"],
     "analytics": ["Power BI", "Excel"],
-    "misc": ["Redux", "styled-components", "Prisma ORM", "Git", "AsyncStorage"]
+    "misc": ["Redux", "styled-components", "Prisma ORM", "Git"]
   },
   "hobbies": ["books", "football", "tennis"]
 }
